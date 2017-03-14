@@ -1,2 +1,4 @@
 # MyChick
-How To Cook Chicken
+Programattic Way To Cook
+By Using AI
+
